@@ -1,0 +1,7 @@
+quintoejercicio.Animal
+quintoejercicio.Canido
+quintoejercicio.Leon
+quintoejercicio.Felino
+quintoejercicio.Lobo
+quintoejercicio.Gato
+quintoejercicio.Perro
